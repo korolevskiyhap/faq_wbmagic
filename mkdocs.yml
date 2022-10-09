@@ -27,7 +27,6 @@ nav:
     - Описание запуска: autobot_intro.md
     - Составление правил: autobot_faq.md
     - Лист ожидания: autobuy_lo.md
-  - Приложение: app.md
   - Хвасты: review.md
 
 markdown_extensions:
