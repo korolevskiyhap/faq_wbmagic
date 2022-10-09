@@ -20,7 +20,7 @@
 
 Настроить правило под себя можно так:
 
-[@king_gatekeeper_bot](http://t.me/king_gatekeeper_bot) -> Настройки -> Магия
+[@wbmagic_cerber_bot](http://t.me/wbmagic_cerber_bot) -> Настройки -> Магия
 
 Тыкаем - ознакамливаемся - настраиваем и пользуемся для кого это актуально :)
 

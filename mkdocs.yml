@@ -1,5 +1,5 @@
-site_name: Королевский Хап FAQ
-site_description: Ответы на частые вопросы по боту Королевский Хап
+site_name: Магия скидок FAQ
+site_description: Ответы на частые вопросы по боту Магия скидок
 
 theme:
   name: material
@@ -20,7 +20,7 @@ nav:
   - Правила: rules.md
   - Оплата: payment_sanctions.md
   - Товары: content.md
-  - Стражник: gatekeeper.md
+  - Цербер: gatekeeper.md
   - Кнопка: knopka.md
   - Автовыкуп: 
     - Начальная настройка: autobot_visual.md
